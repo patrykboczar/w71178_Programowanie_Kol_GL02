@@ -1,0 +1,8 @@
+git push- służy do ściągania i pobierania zawartości ze zdalnego repozytorium oraz natychmiastowej aktualizacji 
+lokalnego repozytorium zgodnie z tą zawartością.
+
+git checkout-służy do aktualizacji stanu repozytorium do określonego punktu w historii projektu. W przypadku przekazania z nazwą gałęzi umożliwia przełączanie 
+się między gałęziami.
+
+git diff-służy do ściągania i pobierania zawartości ze zdalnego repozytorium oraz natychmiastowej aktualizacji lokalnego repozytorium zgodnie z tą zawartością. Scalanie zdalnych zmian nadrzędnych z lokalnym repozytorium jest powszechnym zadaniem w kolaboracyjnych przepływach pracy 
+opartych na systemie Git.
